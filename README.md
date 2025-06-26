@@ -1,4 +1,3 @@
-
 # 🛠️ Online Complaints Registry System
 
 An online platform to register, track, and manage user complaints effectively with a seamless frontend and backend integration.
